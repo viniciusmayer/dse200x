@@ -1,0 +1,18 @@
+nosql
+	casandra
+	mongodb
+	hbase
+
+programming language
+	R
+
+websockets
+anaconda
+gnuplot
+regular expressions
+matplotlib
+jupiter notebooks
+numpy
+pandas
+
+https://www.ted.com/speakers/hans_rosling
